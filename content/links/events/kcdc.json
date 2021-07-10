@@ -1,0 +1,13 @@
+{
+  "name": "KCDC",
+  "desc": "Kansas City Developers Conference",
+  "url": "https://kcdc.info",
+  "tags": [
+    "Kansas City",
+    "Kansas",
+    "Conference",
+	  "Event"
+  ],
+  "maintainers": [],
+  "addedAt": "2021-01-25"
+}
